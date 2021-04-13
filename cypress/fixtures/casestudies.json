@@ -1,0 +1,15 @@
+{
+  "company" : "Pricesmart",
+  "model":"Big Data - Customer Acquisition",
+  "firstName":"TestSubjectFirstName",
+  "lastName":"TestSubjectLastName",
+  "testimonial":"Test Testimonial example from automation",
+  "sectionType":"Test",
+  "sectionDescription":"Test description for section",
+  "media":"Video",
+  "videoUrl":"https://www.youtube.com/watch?v=LXb3EKWsInQ",
+  "mediaDescription":"Description for the media above",
+  "benefit":"Test Benefit 1",
+  "improvement":"5",
+  "benefitType":"$M"
+}

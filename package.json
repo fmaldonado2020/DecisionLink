@@ -1,0 +1,15 @@
+{
+  "name": "decisionlinkaut",
+  "version": "1.0.0",
+  "description": "POC",
+  "main": "index.js",
+  "scripts": {
+    "openc": "node_modules\\.bin\\cypress open",
+    "rund": "node_modules\\.bin\\cypress run --record --key 0f508918-5c2a-4a8d-99b0-fc0efa5f4d31"
+  },
+  "author": "Fernando",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^7.0.1"
+  }
+}

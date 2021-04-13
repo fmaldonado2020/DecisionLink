@@ -1,0 +1,9 @@
+{
+  "env": {
+    "note": "this is an enviromental variable",
+    "url": "https://maui-dev.value-cloud.com/",
+    "apirooturl": "https://maui-dev-api.value-cloud.com/"
+  },
+  "defaultCommandTimeout": 15000,
+  "projectId": "vfn8i5"
+}
